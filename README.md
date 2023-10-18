@@ -1,7 +1,7 @@
 # Fortnite-GS-Uptime-Announcer
 
-made for the MidasFN Server
-https://discord.gg/BHbdYTBySN
+ made for the MidasFN Server
+ https://discord.gg/BHbdYTBySN
 
  ## How to use
  1. Download Python 3.11
