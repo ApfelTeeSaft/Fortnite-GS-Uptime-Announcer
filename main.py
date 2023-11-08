@@ -51,5 +51,4 @@ if __name__ == "__main__":
             wait_for_window_to_close(target_window_name) # when gameserver closes, it enters a loop where it waits for the gameserver to start again
         else:
             print("Waiting for the process...")
-            print(gameserver_name)
             time.sleep(10)
