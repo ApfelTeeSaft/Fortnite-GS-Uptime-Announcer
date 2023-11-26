@@ -1,4 +1,5 @@
 # Fortnite-GS-Uptime-Announcer
+a very primitive try on an uptime announcer, it should work with every version
 
  ## How to use
  1. Download Python 3.11
